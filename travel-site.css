@@ -51,7 +51,7 @@ ul{
 header{
     width: 100vw;
     height: 100VH;
-    background-image: url(img/mountain-background.jpeg);
+    background-image: url(img/mountain-background.png);
     background-position: bottom;
     background-size: cover;
     display: flex;
